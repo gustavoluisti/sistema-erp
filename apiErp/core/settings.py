@@ -32,6 +32,9 @@ INSTALLED_APPS = [
 
     # Cors
     "corsheaders",
+
+    # Apps
+    "auth"
 ]
 
 MIDDLEWARE = [

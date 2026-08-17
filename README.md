@@ -15,3 +15,7 @@ https://pypi.org/project/django-cors-headers/
 # Auth
 
 https://pypi.org/project/django-cors-headers/
+
+# Start APP
+
+django-admin startapp auth
